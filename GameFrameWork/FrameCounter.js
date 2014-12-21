@@ -6,6 +6,9 @@ function FrameCounter () {
     return this;
 }
 
+/*
+
+*/
 FrameCounter.prototype.countFrame = function() {
     this.frameCount++;
     var tmpDate = new Date();
