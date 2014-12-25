@@ -1,0 +1,9 @@
+header{
+background-color: red;
+}
+header.h2{
+	color: green;
+}
+article{
+	background-color: blue;
+}
